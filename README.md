@@ -2,10 +2,7 @@
 
 ### 👋 Hi there, I am Deepak Rai
 
-### I am a Data Science and ML Practitioner 
-[![Gmail Badge](https://img.shields.io/badge/-daksh1981@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daksh1981@gmail.com)](mailto:daksh1981@gmail.com)
-
-(https://www.linkedin.com/in/deepakrai1/)
+### I am a Data Science and ML Practitioner, working in the Financial sector.  
 
 ## Technical Skills
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
