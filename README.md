@@ -33,6 +33,10 @@ I am a Data Science and ML Practitioner, working in the Financial sector.
 
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Rai-1027&layout=compact)](https://github.com/Deepak-Rai-1027/github-readme-stats)
+
+</br> 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-Rai-1027&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepak-Rai-1027&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepak-Rai-1027&theme=monokai)
