@@ -1,8 +1,13 @@
-### 👋 Hi there, I am Deepak Rai:
+![My Banner](https://user-images.githubusercontent.com/5629000/177317385-21e4ebcd-7c6d-46e6-9c6f-0c4f2ad14ce7.png)
+
+### 👋 Hi there, I am Deepak Rai
+
+### I am a Data Science and ML Practitioner 
 [![Gmail Badge](https://img.shields.io/badge/-daksh1981@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daksh1981@gmail.com)](mailto:daksh1981@gmail.com)
 
 (https://www.linkedin.com/in/deepakrai1/)
 
+## Technical Skills
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
