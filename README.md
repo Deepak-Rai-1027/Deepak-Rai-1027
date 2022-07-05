@@ -1,6 +1,8 @@
 ### 👋 Hi there, I am Deepak Rai:
 [![Gmail Badge](https://img.shields.io/badge/-daksh1981@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daksh1981@gmail.com)](mailto:daksh1981@gmail.com)
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/deepakrai1/)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -15,6 +17,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-Rai-1027&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepak-Rai-1027&theme=monokai)
