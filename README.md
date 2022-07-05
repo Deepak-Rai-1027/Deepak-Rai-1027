@@ -4,6 +4,7 @@
 
 ### I am a Data Science and ML Practitioner, working in the Financial sector.  
 
+
 ## Technical Skills
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,7 +31,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepak-Rai-1027&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepak-Rai-1027&theme=monokai&utcOffset=8)
 
-Here are some ideas to get you started:
+
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning and Scientific Programming
 - 🌱 I’m currently learning ML, AI, NLP and Deep Learning
