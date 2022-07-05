@@ -1,7 +1,6 @@
 ### 👋 Hi there, I am Deepak Rai:
 [![Gmail Badge](https://img.shields.io/badge/-daksh1981@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daksh1981@gmail.com)](mailto:daksh1981@gmail.com)
 
-![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/deepakrai1/?style=for-the-badge&logo=linkedin&logoColor=white)
 (https://www.linkedin.com/in/deepakrai1/)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
