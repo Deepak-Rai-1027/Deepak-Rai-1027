@@ -1,5 +1,7 @@
 ![My Banner](https://user-images.githubusercontent.com/5629000/177317385-21e4ebcd-7c6d-46e6-9c6f-0c4f2ad14ce7.png)
 
+</br> 
+
 <h3 align="center">
 👋 Hi there, I am Deepak Rai
 </h3>
