@@ -47,7 +47,7 @@ I am a Data Science and ML Practitioner, working in the Financial sector.
 ## 🔭 I’m currently working on 
 - Machine Learning
 - Data Visualization
-- Cloud Data Amangement
+- Cloud Data Management
 - Building Data Pipelines using AWS EMR, PySpark and Airflow
 
 
