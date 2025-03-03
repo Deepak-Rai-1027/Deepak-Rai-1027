@@ -44,8 +44,6 @@ I am a Data Science and ML Practitioner, working in the Financial sector.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepak-Rai-1027&theme=monokai&utcOffset=8)
 
 
-### Here are some ideas to get you started:
-
 ## 🔭 I’m currently working on 
 - Machine Learning
 - Data Visualization
